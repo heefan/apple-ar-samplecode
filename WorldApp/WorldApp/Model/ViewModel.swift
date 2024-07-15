@@ -1,0 +1,43 @@
+//
+//  ViewModel.swift
+//  WorldApp
+//
+//  Created by LI Tian on 15/7/24.
+//
+
+import SwiftUI
+
+@Observable
+class ViewModel {
+    
+//    // MARK: - Navigation
+//    var navigationPath: [Module] = []
+//    var titleText: String = ""
+//    var isTitleFinished: Bool = false
+//    var finalTitle: String = String(localized: "Hello World", comment: "The title of the app.")
+//
+//    // MARK: - Globe
+//    var isShowingGlobe: Bool = false
+//    var globeEarth: EarthEntity.Configuration = .globeEarthDefault
+//    var isGlobeRotating: Bool = false
+//    var globeTilt: GlobeTilt = .none
+//
+//    // MARK: - Orbit
+//    var isShowingOrbit: Bool = false
+//    var orbitEarth: EarthEntity.Configuration = .orbitEarthDefault
+//    var orbitSatellite: SatelliteEntity.Configuration = .orbitSatelliteDefault
+//    var orbitMoon: SatelliteEntity.Configuration = .orbitMoonDefault
+//
+//    // MARK: - Solar System
+//    var isShowingSolar: Bool = false
+//    var solarEarth: EarthEntity.Configuration = .solarEarthDefault
+//    var solarSatellite: SatelliteEntity.Configuration = .solarTelescopeDefault
+//    var solarMoon: SatelliteEntity.Configuration = .solarMoonDefault
+//
+//    var solarSunDistance: Double = 700
+//    var solarSunPosition: SIMD3<Float> {
+//        [Float(solarSunDistance * sin(solarEarth.sunAngle.radians)),
+//         0,
+//         Float(solarSunDistance * cos(solarEarth.sunAngle.radians))]
+//    }
+}
