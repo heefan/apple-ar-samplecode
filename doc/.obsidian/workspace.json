@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5c73731d7fcf0108",
+        "id": "c977a5d1adfdbac4",
         "type": "tabs",
         "children": [
           {
-            "id": "7ab6745cb9fd0f45",
+            "id": "3c2f5fff44a6997f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how_to_load_3d_globe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32572bdcf03b5430",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "how_to_load_3d_globe.md",
+                "file": "How to create a volume.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how_to_load_3d_globe.md",
+                "file": "How to create a volume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "how_to_load_3d_globe.md",
+                "file": "How to create a volume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how_to_load_3d_globe.md"
+                "file": "How to create a volume.md"
               }
             }
           }
@@ -159,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32572bdcf03b5430",
+  "active": "3c2f5fff44a6997f",
   "lastOpenFiles": [
-    "RealityView.md",
+    "How to create a volume.md",
     "how_to_load_3d_globe.md",
+    "RealityView.md",
     "2024-07-22.md",
     "Keypoint.md",
     "images/6.png",
