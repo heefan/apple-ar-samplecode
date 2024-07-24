@@ -18,8 +18,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52e5c4f221fa90b2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "1ca60955e10cd752",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3D-Models/usdz  vs usda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26a1a78d2780da8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EmptyWindow/Load 3D in ContentView.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to create a volume.md",
+                "file": "EmptyWindow/Load 3D in ContentView.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to create a volume.md",
+                "file": "EmptyWindow/Load 3D in ContentView.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to create a volume.md"
+                "file": "EmptyWindow/Load 3D in ContentView.md"
               }
             }
           }
@@ -146,8 +181,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c2f5fff44a6997f",
+  "active": "26a1a78d2780da8d",
   "lastOpenFiles": [
+    "3D-Models/usdz  vs usda.md",
+    "EmptyWindow/Load 3D in ContentView.md",
+    "EmptyWindow",
+    "3D-Models",
+    "Diaroma",
     "How to create a volume.md",
     "how_to_load_3d_globe.md",
     "RealityView.md",

@@ -32,9 +32,7 @@ struct DioramaView: View {
                 
                 // Offset the scene so it doesn't appear underneath the user or conflict with the main window.
                 entity.position = SIMD3<Float>(0, 0, -2)
-                
                 setupBirds(rootEntity: entity)
-
                 subscriptions.append(content.subscribe(to: ComponentEvents.DidAdd.self, componentType: PointOfInterestComponent.self, { event in
                     createLearnMoreView(for: event.entity)
                 }))
